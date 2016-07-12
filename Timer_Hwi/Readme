@@ -1,1 +1,2 @@
 This folder contains code through which a Hardware Interrupt is called using General timer 2A and then LED is blinked.
+Here the BIOS Hwi Dispatcher is used.
