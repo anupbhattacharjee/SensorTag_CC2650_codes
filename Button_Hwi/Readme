@@ -1,0 +1,2 @@
+This code is to use the BIOS Hwi dispatcher for taking interrupts from the GPIO(intr no. 16) and then based on the left or right button press,
+blink the red or green led.
