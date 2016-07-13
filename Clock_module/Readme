@@ -1,0 +1,3 @@
+This project contains TI RTOS code for using the clock module of the BIOS to have two functions blink LED1 and LED2 using Swis.
+
+Also code for using log_info has been added.
