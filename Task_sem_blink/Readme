@@ -1,0 +1,5 @@
+The Hardware timer 2A counts till 500 milli seconds and then generates an interrupt.
+
+In the ISR two semaphores are posted to allow the two tasks to blink the LEDs.
+
+BIOS Hardware Dispatcher is used to setup the Hwi, Tasks and the semaphores.
